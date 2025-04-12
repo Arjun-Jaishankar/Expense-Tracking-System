@@ -1,4 +1,4 @@
-# Expense-Tracking-System (Using both Arrays & Linked-Lists)
+# Expense-Tracking-System (Using Arrays, Linked-Lists & B+ Trees)
 ## Overview
 Written completely in C language, the menu-driven program helps in tracking expenses of individual users or a family of atmost 4 users. It allows users to add, delete and systematically access expenses. More features like that of getting sorted category-wise total monthly expense, income-expense disparity of family, highest expense day of a family, etc are added and optimized, making use of algorithms like Binary Search, Insertion sort, etc while inculcating best-practices of programming and input validation at each step. Additionally, the program is integrated with file handling feature to extract data from text files.
 ## Features
